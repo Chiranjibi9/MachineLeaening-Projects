@@ -1,4 +1,4 @@
-# # Machine Learning Project Repository
+# Machine Learning Project Repository
 
 ### Overview
 This repository contains only machine learning projects that aims to briefly describe the project goal, and The model is trained using respective dataset and deployed using Flask
@@ -10,6 +10,6 @@ This repository contains only machine learning projects that aims to briefly des
 - Flask (Model Deployment)
 - Jupyter Notebook (Development)
 
-# # 1. Iris flower classification
+# 1. Iris flower classification
 
 
