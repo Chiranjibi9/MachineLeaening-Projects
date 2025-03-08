@@ -9,7 +9,7 @@ The dataset used for this project is `Bengaluru_House_Data.csv`, which contains 
 - Total square feet
 - Number of bedrooms (BHK)
 - Number of bathrooms
-- Price (target variable)
+- Price (target variable) and many more which were dropped during data cleaning.
 
 ## Technologies Used
 - **Python** (for model development)
