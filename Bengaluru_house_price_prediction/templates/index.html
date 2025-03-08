@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>House Price Prediction</title>
+</head>
+<body>
+    <h2>Enter House Details</h2>
+    <form action="{{ url_for('predict') }}" method="post">
+        {% for column in columns %}
+            <input type="text" name="{{ column }}" placeholder="{{ column }}" required><br>
+        {% endfor %}
+        <button type="submit">Predict Price</button>
+    </form>
+</body>
+</html>
