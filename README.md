@@ -10,8 +10,12 @@ This repository contains only machine learning projects that aims to briefly des
 - Flask (Model Deployment)
 - Jupyter Notebook (Development)
 
-# 1. Iris flower classification
+# PROJECTS:
 
-# 2. Bengaluru_house_price_prediction
+## 1. Iris flower classification
+
+## 2. Bengaluru_house_price_prediction
+
+## 3. Movie recommend system
 
 
