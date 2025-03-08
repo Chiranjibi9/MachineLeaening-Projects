@@ -12,4 +12,6 @@ This repository contains only machine learning projects that aims to briefly des
 
 # 1. Iris flower classification
 
+# 2. Bengaluru_house_price_prediction
+
 
