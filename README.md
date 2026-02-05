@@ -18,5 +18,8 @@ This repository contains only machine learning projects that aims to briefly des
 
 ## 3. Concrete strength predictor
 
+## 4. Credit scoring segmentation
+
+
 
 
