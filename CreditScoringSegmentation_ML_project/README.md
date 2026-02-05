@@ -42,12 +42,6 @@ Cluster 3: Very Low Credit Score (Critical Risk Customers) 🚨(Yellow) Clusters
 <img width="1260" height="582" alt="image" src="https://github.com/user-attachments/assets/53656ec7-8e4a-4a88-8bc8-f7e21655df57" />
 
 
-## 📌 Used Elbow Method to determine the optimal number of clusters.
-
-Elbow_Curve
-<img width="850" height="688" alt="image" src="https://github.com/user-attachments/assets/f7c5969a-c3ca-44e1-8e44-28b5c15acb05" />
-
-
 ## ✔ Key Insights:
 
 Identified customer groups based on credit behavior and risk levels.
