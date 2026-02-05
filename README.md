@@ -16,6 +16,7 @@ This repository contains only machine learning projects that aims to briefly des
 
 ## 2. Bengaluru_house_price_prediction
 
-## 3. 
+## 3. Concrete strength predictor
+
 
 
