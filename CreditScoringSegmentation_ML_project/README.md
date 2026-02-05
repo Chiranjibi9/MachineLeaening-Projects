@@ -1,21 +1,23 @@
-📌 Project Implementation
+## 📌 Project Implementation
+
 Developed a K-Means clustering model to segment customers based on credit scores, helping financial institutions assess risk profiles and improve decision-making. Engineered features from customer financial data to create meaningful clusters, allowing banks to categorize applicants effectively.
 
 How Will This Project Help?
 This project assists banks and financial institutions in identifying high-risk and low-risk customers, optimizing credit offerings, and reducing financial risk through data-driven customer segmentation.
 
-Resources Used
+## Resources Used
 
 📌 Packages: pandas, numpy, matplotlib, seaborn, plotly etc.
 
 📌 Dataset: credit_scoring.csv
 
-Exploratory Data Analysis (EDA) and Data Cleaning
+## Exploratory Data Analysis (EDA) and Data Cleaning
+
 1️⃣ Created new column Credit score using FICO formula.
 
 2️⃣ Mapping the categorical features like Education leveland employment status.
 
-✔ EDA Insights:
+## ✔ EDA Insights:
 
 Used bar plots, histograms, and scatter plots to analyze credit score distributions. Credit utilization ratio Loan amount distubution
 
@@ -23,12 +25,12 @@ Identified trends in income, spending behavior, and default probability.
 
 Feature Engineering
 
-📌 Feature Selection: Used Credit Score as the primary clustering feature.
+## 📌 Feature Selection: Used Credit Score as the primary clustering feature.
 
 K-Means Clustering Implementation
 🔄 Applied K-Means clustering with 4 clusters to segment customers based on their credit scores.
 
-📌 Cluster Interpretation:
+## 📌 Cluster Interpretation:
 
 Cluster 0: High Credit Score (Low-Risk Customers) ✅(Green)
 
@@ -38,17 +40,17 @@ Cluster 2: Low Credit Score (High-Risk Customers) ❌(Blue)
 
 Cluster 3: Very Low Credit Score (Critical Risk Customers) 🚨(Yellow) Clusters
 
-📌 Used Elbow Method to determine the optimal number of clusters.
+## 📌 Used Elbow Method to determine the optimal number of clusters.
 
 Elbow_Curve
 
-✔ Key Insights:
+## ✔ Key Insights:
 
 Identified customer groups based on credit behavior and risk levels.
 
 Helps banks in loan approvals, credit limit assignments, and personalized financial services.
 
-Final Model Output
+## Final Model Output
 
 📌 Predicts customer segmentation based on their credit score and financial behavior.
 
