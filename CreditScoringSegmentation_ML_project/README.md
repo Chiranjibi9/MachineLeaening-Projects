@@ -39,6 +39,8 @@ Cluster 1: Moderate Credit Score (Medium-Risk Customers)(Red)
 Cluster 2: Low Credit Score (High-Risk Customers) ❌(Blue)
 
 Cluster 3: Very Low Credit Score (Critical Risk Customers) 🚨(Yellow) Clusters
+<img width="1260" height="582" alt="image" src="https://github.com/user-attachments/assets/53656ec7-8e4a-4a88-8bc8-f7e21655df57" />
+
 
 ## 📌 Used Elbow Method to determine the optimal number of clusters.
 
